@@ -1,4 +1,4 @@
-# Hexagon Scraping
+# Hexagon Scraper
 
 ## 使用技術
 * Ruby
